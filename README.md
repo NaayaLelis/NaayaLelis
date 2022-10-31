@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/104438961/199100199-f9dcc8e7-8646-4093-85ef-ac1b6653098d.jpg" width=auto/>
 
 
-### Hello World! Eu sou a Nayara, seja bem vindo(a) 
+<h2> Hello World! Eu sou a Nayara, seja bem vindo(a) </h2>
 
-✨Desenvolvedora Web Full Stack ✨
+<h3>✨Desenvolvedora Web Full Stack ✨
 
 Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempre em busca de novos desafios que me direcionem ao crescimento pessoal e profissional. 
 
@@ -13,7 +13,12 @@ Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempr
 - ⚡ Curiosidade: Além da tecnologia, sou apaixonada peor música e artes em geral!
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaayaLelis&theme=moltack)
+<div align="center">
+  <a href="https://github.com/NaayaLelis">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NaayaLelis&count_public=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=true&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaayaLelis&theme=vue-dark&hide_border=true&&layout=compact"/>
+  </a>
+</div>
 <br>
 <br>
 <h2>Meus projetos</h2>
