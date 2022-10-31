@@ -27,8 +27,8 @@ Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempr
 <br>
 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/104438961/197910064-871fc381-a124-4385-ada6-4719047fe58e.gif" width="auto"/></a>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/104438961/197910064-871fc381-a124-4385-ada6-4719047fe58e.gif" width="390"/></a>
 </p>
    
 <a href="https://github.com/Projeto-Final-Grupo-16-Magalu/Back-end"><img src="https://user-images.githubusercontent.com/104438961/197904981-9f5a18de-05a1-44d3-b7a7-1719d4f05fb7.png" height=35/></a>
