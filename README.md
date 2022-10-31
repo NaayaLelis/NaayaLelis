@@ -37,7 +37,7 @@ https://mangutse.netlify.app/#/quemsomos
 <a href="https://github.com/Projeto-Integrador-GB-Mangut/Frontend">
 <img src=  " https://user-images.githubusercontent.com/104438961/197905063-c9abd635-f443-4b0e-a6c5-b4d4247b20d4.png" height=35/></a> 
 </p>
-<br>
+
 
 <b>Carrinho de compras 🛒 </b>
 <br>
