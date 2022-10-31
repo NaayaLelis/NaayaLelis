@@ -13,11 +13,13 @@ Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempr
 - ⚡ Curiosidade: Além da tecnologia, sou apaixonada peor música e artes em geral!
 <br>
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaayaLelis&theme=moltack)
 <br>
-
+<br>
 <h2>Meus projetos</h2>
-<br>
+
 <b>Rede social Mangut 🌳</b>
+https://mangutse.netlify.app/#/quemsomos
 <br>
 <br>
 <a href="https://mangutse.netlify.app/#/quemsomos"><img src="https://user-images.githubusercontent.com/104438961/197902534-e1d31b7a-3824-47b4-bbc1-0b1e47749042.gif" width="400"/></a>
@@ -43,6 +45,8 @@ Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempr
 <a href="https://github.com/Projeto-Final-Grupo-16-Magalu/Back-end"><img src="https://user-images.githubusercontent.com/104438961/197904981-9f5a18de-05a1-44d3-b7a7-1719d4f05fb7.png" height=35/></a>
 
 <br>
+
+
 
  <b>Vamos conversar? Estou animada pelo seu contato 😊🤩
 <p align="center">
