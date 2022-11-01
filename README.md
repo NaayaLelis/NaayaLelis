@@ -39,11 +39,12 @@ https://mangutse.netlify.app/#/quemsomos
 <br>
 <i><h1>Carrinho de compras 🛒</h1></i>
 <br>
-<p align="left">
+
 <img src="https://user-images.githubusercontent.com/104438961/197910064-871fc381-a124-4385-ada6-4719047fe58e.gif" width="540"/></a>
 </p>
    
 <a href="https://github.com/Projeto-Final-Grupo-16-Magalu/Back-end"><img src="https://user-images.githubusercontent.com/104438961/197904981-9f5a18de-05a1-44d3-b7a7-1719d4f05fb7.png" height=52/></a>
+<br>
 <br>
 </div> 
 
