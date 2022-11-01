@@ -24,7 +24,7 @@ Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempr
 <h1>Meus projetos</h1>
 <br>
 <div align ="center">
-<b><h2>Rede social Mangut 🌳</b></h2>
+<i><h1>Rede social Mangut 🌳</h1></i>
 
 https://mangutse.netlify.app/#/quemsomos
 <br>
@@ -37,7 +37,7 @@ https://mangutse.netlify.app/#/quemsomos
 <a href="https://github.com/Projeto-Integrador-GB-Mangut/Frontend">
 <img src="https://user-images.githubusercontent.com/104438961/197905063-c9abd635-f443-4b0e-a6c5-b4d4247b20d4.png" height=52/></a> </p>
 <br>
-<b><h2>Carrinho de compras 🛒</b><h2>
+<i><h1>Carrinho de compras 🛒</h1></i>
 <br>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/104438961/197910064-871fc381-a124-4385-ada6-4719047fe58e.gif" width="540"/></a>
