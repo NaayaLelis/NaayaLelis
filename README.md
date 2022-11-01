@@ -22,12 +22,14 @@ Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempr
 <br>
 
 <h1>Meus projetos</h1>
+<br>
+<div align ="center">
 <b><h2>Rede social Mangut 🌳</b></h2>
 
 https://mangutse.netlify.app/#/quemsomos
 <br>
 <br>
-<a href="https://mangutse.netlify.app/#/quemsomos"><img src="https://user-images.githubusercontent.com/104438961/197902534-e1d31b7a-3824-47b4-bbc1-0b1e47749042.gif" width="500"/></a>
+<a href="https://mangutse.netlify.app/#/quemsomos"><img src="https://user-images.githubusercontent.com/104438961/197902534-e1d31b7a-3824-47b4-bbc1-0b1e47749042.gif" width="550"/></a>
 </p>
     
 <a href="https://github.com/Projeto-Integrador-GB-Mangut/Backend"><img src="https://user-images.githubusercontent.com/104438961/197904981-9f5a18de-05a1-44d3-b7a7-1719d4f05fb7.png" height =52/></a>
@@ -38,11 +40,12 @@ https://mangutse.netlify.app/#/quemsomos
 <b><h2>Carrinho de compras 🛒</b><h2>
 <br>
 <p align="left">
-<img src="https://user-images.githubusercontent.com/104438961/197910064-871fc381-a124-4385-ada6-4719047fe58e.gif" width="490"/></a>
+<img src="https://user-images.githubusercontent.com/104438961/197910064-871fc381-a124-4385-ada6-4719047fe58e.gif" width="540"/></a>
 </p>
    
 <a href="https://github.com/Projeto-Final-Grupo-16-Magalu/Back-end"><img src="https://user-images.githubusercontent.com/104438961/197904981-9f5a18de-05a1-44d3-b7a7-1719d4f05fb7.png" height=52/></a>
 <br>
+</div> 
 
 <h1>Meus contatos 📬 </h1>
 <p align="left">
