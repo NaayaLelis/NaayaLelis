@@ -7,8 +7,8 @@
 
 Sou uma pessoa criativa e curiosa; motivada pelo amor ao aprendizado estou sempre em busca de novos desafios que me direcionem ao crescimento pessoal e profissional. 
 
-- 🎓🏆🚀Bootcamp Generation -Brasil Desenvolvedora Web Full Stack Java júnior
-- 🎓🏆🚀 Bootcamp Luiza Code em Linguagem Python 
+- 🎓🏆🚀Bootcamp Generation Brasil- Desenvolvedora Web Full Stack Java júnior
+- 🎓🏆🚀 Bootcamp Luiza Code - Linguagem Python 
 - 🌱 Mentalidade de crescimento, desenvolvendo minhas hard skills e soft skills diariamente
 - ⚡ Curiosidade: Além da tecnologia, sou apaixonada peor música e artes em geral! 
 <br>
